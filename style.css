@@ -42,4 +42,23 @@
 -weight-medium: 500; --weight-semiBold: 600;
 
 --weight-bold: 700;
+
+-section-spacing: 100px;
+
+--shadow-1: drop-shadow(0 20px 30px hsla(0, 0%, 0%, 0.1));
+--shadow-2: drop-shadow(0 20px 30px hsla(0, 0%, 0%, 0.2));
+
+
+
+--radius-24:24px;
+
+--radius-40: 40px;
+
+--radius-pill: 500px
+
+--transition-1: 250ms ease;
+
+--transition-2: 500ms;
+
+--cubic-out: cubic-bezier(e, 1, 0.5, 1);
 }
